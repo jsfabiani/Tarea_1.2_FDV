@@ -24,4 +24,9 @@ We download a texture and add it to LFS (this step is unnecessary, since we were
 
 We find the appropriate .gitignore file ![here](https://www.toptal.com/developers/gitignore/api/unity) and add it to the root of the Unity Project.
 
-We finally add the project and commit the changes.
+Finally, we add the Unity project and commit the changes.
+![](https://github.com/jsfabiani/Tarea_1.2_FDV/blob/main/Capturas_Pantalla/Screenshot_8.png)
+
+We add a gif to verify that the script is working:
+
+![](https://github.com/jsfabiani/Tarea_1.2_FDV/blob/main/Capturas_Pantalla/UnityScript.gif)
